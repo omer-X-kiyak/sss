@@ -1,6 +1,5 @@
 <div>
-  <h1 id="name">John Doe</h1>
-  <img id="profile-pic" src="https://www.example.com/profile-pic.jpg" alt="Profile Picture">
+  <h1 id="name">Ömer KIYAK</h1>
 </div>
 #name {
   animation: greeting 2s ease-in-out;
